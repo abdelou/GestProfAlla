@@ -26,6 +26,9 @@ public class CoursTest {
     String duree;
     int idprof;
     
+    /*    c'est la premir commit dans le dossier src==>test==>pour fichier coursTest.java
+    */
+    
     public CoursTest() {
     }
     
